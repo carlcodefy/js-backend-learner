@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "carlcodefy",
+  "description": "Trying freecodecamp",
+  "keywords": ["freecodecamp","backend","javascript","package management"],
+  "version": "1.2.0",
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
-	},
+  },
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
